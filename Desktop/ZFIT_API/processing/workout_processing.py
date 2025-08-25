@@ -82,7 +82,7 @@ def structure_csv():
         Python dictionary containing workout information
     """
     try:
-        df = pd.read_csv('filtered_program.csv')
+        df = pd.read_csv('data/filtered_program.csv')
     except Exception as e:
         logging.error(f'Failed to create dataframe from filtered_program.csv: {e}')
         return []

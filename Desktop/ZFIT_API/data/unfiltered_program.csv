@@ -1,13 +1,14 @@
-Here is your custom workout plan:
+Here is the CSV output:
 
-"Leg and Back Workout",2025-08-25,"Legs","Dumbbell Squats",3
-"Leg and Back Workout",2025-08-25,"Legs","Barbell Deadlifts",2
-"Leg and Back Workout",2025-08-25,"Back","Dumbbell Bent-Over Rows",2
+"Workout Title","Date","Muscle Groups","Exercise","Sets"
+"Back Development",2025-08-25,"Latissimus Dorsi","Dumbbell Bent-Over Rows",3
+"Back Development",2025-08-25,"Trapezius","Dumbbell Shrugs",2
+"Back Development",2025-08-25,"Rhomboids","Dumbbell Romanian Deadlifts",2
 
-"Leg and Back Workout",2025-08-27,"Legs","Barbell Lunges",3
-"Leg and Back Workout",2025-08-27,"Back","Dumbbell Lat Pulldowns",2
-"Leg and Back Workout",2025-08-27,"Legs","Dumbbell Calf Raises",2
+"Back Development",2025-08-27,"Latissimus Dorsi","Dumbbell Rows (Seated)",3
+"Back Development",2025-08-27,"Trapezius","Dumbbell Face-Lift",2
+"Back Development",2025-08-27,"Rhomboids","Dumbbell Upright Rows",2
 
-"Leg and Back Workout",2025-08-29,"Legs","Barbell Step-Ups",3
-"Leg and Back Workout",2025-08-29,"Back","Dumbbell Shrugs",2
-"Leg and Back Workout",2025-08-29,"Legs","Dumbbell Leg Extensions",2
+"Back Development",2025-08-29,"Latissimus Dorsi","Dumbbell Bent-Over Rows",3
+"Back Development",2025-08-29,"Trapezius","Dumbbell Shrugs",2
+"Back Development",2025-08-29,"Rhomboids","Dumbbell Reverse Fly",2

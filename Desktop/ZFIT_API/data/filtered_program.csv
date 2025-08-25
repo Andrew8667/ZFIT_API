@@ -1,22 +1,25 @@
 title,date,musclegroups,exercise,set_num,lbs,reps
-Leg and Back Workout,2025-08-25,Legs,Dumbbell Squats,1,225,6
-Leg and Back Workout,2025-08-25,Legs,Dumbbell Squats,2,225,6
-Leg and Back Workout,2025-08-25,Legs,Dumbbell Squats,3,225,6
-Leg and Back Workout,2025-08-25,Legs,Barbell Deadlifts,1,235,9
-Leg and Back Workout,2025-08-25,Legs,Barbell Deadlifts,2,235,9
-Leg and Back Workout,2025-08-25,Back,Dumbbell Bent-Over Rows,1,70,15
-Leg and Back Workout,2025-08-25,Back,Dumbbell Bent-Over Rows,2,70,15
-Leg and Back Workout,2025-08-27,Legs,Barbell Lunges,1,225,6
-Leg and Back Workout,2025-08-27,Legs,Barbell Lunges,2,225,6
-Leg and Back Workout,2025-08-27,Legs,Barbell Lunges,3,225,6
-Leg and Back Workout,2025-08-27,Back,Dumbbell Lat Pulldowns,1,70,15
-Leg and Back Workout,2025-08-27,Back,Dumbbell Lat Pulldowns,2,70,15
-Leg and Back Workout,2025-08-27,Legs,Dumbbell Calf Raises,1,0,12
-Leg and Back Workout,2025-08-27,Legs,Dumbbell Calf Raises,2,0,12
-Leg and Back Workout,2025-08-29,Legs,Barbell Step-Ups,1,225,6
-Leg and Back Workout,2025-08-29,Legs,Barbell Step-Ups,2,225,6
-Leg and Back Workout,2025-08-29,Legs,Barbell Step-Ups,3,225,6
-Leg and Back Workout,2025-08-29,Back,Dumbbell Shrugs,1,0,12
-Leg and Back Workout,2025-08-29,Back,Dumbbell Shrugs,2,0,12
-Leg and Back Workout,2025-08-29,Legs,Dumbbell Leg Extensions,1,115,7
-Leg and Back Workout,2025-08-29,Legs,Dumbbell Leg Extensions,2,115,7
+Workout Title,Date,Muscle Groups,Exercise,1,135,10
+Workout Title,Date,Muscle Groups,Exercise,2,135,10
+Workout Title,Date,Muscle Groups,Exercise,3,135,10
+Back Development,2025-08-25,Latissimus Dorsi,Dumbbell Bent-Over Rows,1,70,15
+Back Development,2025-08-25,Latissimus Dorsi,Dumbbell Bent-Over Rows,2,70,15
+Back Development,2025-08-25,Latissimus Dorsi,Dumbbell Bent-Over Rows,3,70,15
+Back Development,2025-08-25,Trapezius,Dumbbell Shrugs,1,0,12
+Back Development,2025-08-25,Trapezius,Dumbbell Shrugs,2,0,12
+Back Development,2025-08-25,Rhomboids,Dumbbell Romanian Deadlifts,1,235,9
+Back Development,2025-08-25,Rhomboids,Dumbbell Romanian Deadlifts,2,235,9
+Back Development,2025-08-27,Latissimus Dorsi,Dumbbell Rows (Seated),1,115,8
+Back Development,2025-08-27,Latissimus Dorsi,Dumbbell Rows (Seated),2,115,8
+Back Development,2025-08-27,Latissimus Dorsi,Dumbbell Rows (Seated),3,115,8
+Back Development,2025-08-27,Trapezius,Dumbbell Face-Lift,1,60,16
+Back Development,2025-08-27,Trapezius,Dumbbell Face-Lift,2,60,16
+Back Development,2025-08-27,Rhomboids,Dumbbell Upright Rows,1,115,8
+Back Development,2025-08-27,Rhomboids,Dumbbell Upright Rows,2,115,8
+Back Development,2025-08-29,Latissimus Dorsi,Dumbbell Bent-Over Rows,1,70,15
+Back Development,2025-08-29,Latissimus Dorsi,Dumbbell Bent-Over Rows,2,70,15
+Back Development,2025-08-29,Latissimus Dorsi,Dumbbell Bent-Over Rows,3,70,15
+Back Development,2025-08-29,Trapezius,Dumbbell Shrugs,1,0,12
+Back Development,2025-08-29,Trapezius,Dumbbell Shrugs,2,0,12
+Back Development,2025-08-29,Rhomboids,Dumbbell Reverse Fly,1,30,12
+Back Development,2025-08-29,Rhomboids,Dumbbell Reverse Fly,2,30,12
