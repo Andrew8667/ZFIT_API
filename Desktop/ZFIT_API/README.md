@@ -4,14 +4,14 @@
 ## Problem Statement
 
 
-I use **ZFIT**, a mobile app I designed and developed, to create workouts, log exercises, and track progress via data visualizations. However, each workout and exercise must be entered manually, and the visualizations only graph raw data without actionable insights. As a result, planning and logging workouts can take up to an hour weekly, and the lack of meaningful feedback makes it hard to optimize training effectively.
+I use **ZFIT**, a mobile app I designed and developed, to create workouts, log exercises, and track progress via data visualizations. However, each workout and exercise must be entered manually, and the visualizations only graph raw data without actionable insights. As a result, planning and logging workouts can take a long time, and the lack of meaningful feedback makes it hard to optimize training effectively.
 
 ## Tech Stack
 
 
 | Layer      | Technologies |
 |------------|--------------|
-| **Backend**   | Python, Pandas|
+| **Backend**   | Python, Pandas Library|
 | **AI**   | Ollama, LLaMA3 |
 | **Database**   | Postgres via Supabase|
 | **Development Tools**     | VSCode, GitHub|
