@@ -11,7 +11,7 @@ I use **ZFIT**, a mobile app I designed and developed, to create workouts, log e
 
 | Layer      | Technologies |
 |------------|--------------|
-| **Backend**   | Python, Pandas, Ollama, LLaMA3() |
+| **Backend**   | Python, Pandas|
 | **AI**   | Ollama, LLaMA3 |
 | **Database**   | Postgres via Supabase|
 | **Development Tools**     | VSCode, GitHub|
