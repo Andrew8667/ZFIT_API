@@ -40,13 +40,13 @@ Email: andrew866799@gmail.com
 
 Password: Test123
 
-##5. Test Features
+## 5. Test Features
 
 Create Tab: Generate a customized workout plan.
 
 Progress Tab: Generate actionable insights based on past exercises.
 
-##6. Notes
+## 6. Notes
 
 Generating a program, making changes to a program, or generating insights may take up to one minute to complete.
 
