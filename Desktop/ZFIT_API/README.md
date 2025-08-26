@@ -31,7 +31,7 @@ Ensure you have Python installed. Then, install all required packages from `requ
 pip install -r requirements.txt 
 ```
 ## 2. Run the backend server using app.py
-## 3. Follow the instructions in the ZFIT GitHub to launch the React Native app
+## 3. Follow the instructions in the [ZFIT GitHub](https://github.com/Andrew8667/ZFIT/blob/main/README.md) to launch the React Native app
 ## 4. Log In
 
 Use the following test credentials to sign in:
