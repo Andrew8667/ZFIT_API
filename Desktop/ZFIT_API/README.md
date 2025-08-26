@@ -23,6 +23,36 @@ I use **ZFIT**, a mobile app I designed and developed, to create workouts, log e
 - **Automated Workout Planning**: To generate a customized plan, the app first gathers user data through a four-part assessment, including age, gender, experience level, goals, availability, and accessible equipment. I formulated an input query for the LLaMA 3 model to generate a workout plan based on this data. The weight and reps for each exercise are determined from the user’s past performance. For exercises the user has never performed, the LLM identifies the most similar exercise previously completed and applies its weight and reps. The generated workout plan is sent to the frontend, where users can review and use AI to modify it. Once saved, the workouts are stored and ready for use.
 - **Actionable Exercise Insights**: Users can generate insights for exercises they’ve completed. Using historical data, the LLM analyzes trends in weight and reps, recommends optimal weights and reps for the next session, and provides guidance on how to progress. This feature gives users personalized, actionable advice to improve their training.
 
+## How to Run
+## 1. Install Dependencies
+Ensure you have Python installed. Then, install all required packages from `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+
+## 2. Run the backend server using app.py
+## 3. Follow the instructions in the ZFIT GitHub to launch the React Native app
+## 4. Log In
+
+Use the following test credentials to sign in:
+
+Email: andrew866799@gmail.com
+
+Password: Test123
+
+##5. Test Features
+
+Create Tab: Generate a customized workout plan.
+
+Progress Tab: Generate actionable insights based on past exercises.
+
+##6. Notes
+
+Generating a program, making changes to a program, or generating insights may take up to one minute to complete.
+
+Ensure both the backend and front end is running.
+
+If using a mobile device with Expo Go, make sure it is on the same Wi-Fi network as your computer.
 
 ## Challenges & Learnings
 
