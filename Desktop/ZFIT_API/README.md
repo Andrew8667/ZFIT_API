@@ -28,8 +28,8 @@ I use **ZFIT**, a mobile app I designed and developed, to create workouts, log e
 Ensure you have Python installed. Then, install all required packages from `requirements.txt`:
 
 ```bash
-pip install -r requirements.txt
-
+pip install -r requirements.txt 
+```
 ## 2. Run the backend server using app.py
 ## 3. Follow the instructions in the ZFIT GitHub to launch the React Native app
 ## 4. Log In
