@@ -1,25 +1,18 @@
 title,date,musclegroups,exercise,set_num,lbs,reps
-Workout Title,Date,Muscle Groups,Exercise,1,135,10
-Workout Title,Date,Muscle Groups,Exercise,2,135,10
-Workout Title,Date,Muscle Groups,Exercise,3,135,10
-Back Development,2025-08-25,Latissimus Dorsi,Dumbbell Bent-Over Rows,1,70,15
-Back Development,2025-08-25,Latissimus Dorsi,Dumbbell Bent-Over Rows,2,70,15
-Back Development,2025-08-25,Latissimus Dorsi,Dumbbell Bent-Over Rows,3,70,15
-Back Development,2025-08-25,Trapezius,Dumbbell Shrugs,1,0,12
-Back Development,2025-08-25,Trapezius,Dumbbell Shrugs,2,0,12
-Back Development,2025-08-25,Rhomboids,Dumbbell Romanian Deadlifts,1,235,9
-Back Development,2025-08-25,Rhomboids,Dumbbell Romanian Deadlifts,2,235,9
-Back Development,2025-08-27,Latissimus Dorsi,Dumbbell Rows (Seated),1,115,8
-Back Development,2025-08-27,Latissimus Dorsi,Dumbbell Rows (Seated),2,115,8
-Back Development,2025-08-27,Latissimus Dorsi,Dumbbell Rows (Seated),3,115,8
-Back Development,2025-08-27,Trapezius,Dumbbell Face-Lift,1,60,16
-Back Development,2025-08-27,Trapezius,Dumbbell Face-Lift,2,60,16
-Back Development,2025-08-27,Rhomboids,Dumbbell Upright Rows,1,115,8
-Back Development,2025-08-27,Rhomboids,Dumbbell Upright Rows,2,115,8
-Back Development,2025-08-29,Latissimus Dorsi,Dumbbell Bent-Over Rows,1,70,15
-Back Development,2025-08-29,Latissimus Dorsi,Dumbbell Bent-Over Rows,2,70,15
-Back Development,2025-08-29,Latissimus Dorsi,Dumbbell Bent-Over Rows,3,70,15
-Back Development,2025-08-29,Trapezius,Dumbbell Shrugs,1,0,12
-Back Development,2025-08-29,Trapezius,Dumbbell Shrugs,2,0,12
-Back Development,2025-08-29,Rhomboids,Dumbbell Reverse Fly,1,30,12
-Back Development,2025-08-29,Rhomboids,Dumbbell Reverse Fly,2,30,12
+Shoulder Training with Dumbbells," ""2025-08-26""",Shoulders,Dumbbell Shoulder Press,1,135,10
+Shoulder Training with Dumbbells," ""2025-08-26""",Shoulders,Dumbbell Shoulder Press,2,135,10
+Shoulder Training with Dumbbells," ""2025-08-26""",Shoulders,Dumbbell Shoulder Press,3,135,10
+Shoulder Training with Dumbbells," ""2025-08-26""",Shoulders,Lateral Raise,1,30,12
+Shoulder Training with Dumbbells," ""2025-08-26""",Shoulders,Lateral Raise,2,30,12
+Shoulder Training with Dumbbells," ""2025-08-26""",Shoulders,Lateral Raise,3,30,12
+Shoulder Training with Dumbbells," ""2025-08-26""",Shoulders,Front Raise,1,30,12
+Shoulder Training with Dumbbells," ""2025-08-26""",Shoulders,Front Raise,2,30,12
+Shoulder Training with Dumbbells," ""2025-09-01""",Shoulders,Dumbbell Lateral Raise,1,30,12
+Shoulder Training with Dumbbells," ""2025-09-01""",Shoulders,Dumbbell Lateral Raise,2,30,12
+Shoulder Training with Dumbbells," ""2025-09-01""",Shoulders,Dumbbell Lateral Raise,3,30,12
+Shoulder Training with Dumbbells," ""2025-09-01""",Shoulders,Dumbbell Lateral Raise,4,30,12
+Shoulder Training with Dumbbells," ""2025-09-01""",Shoulders,Dumbbell Front Raise,1,30,12
+Shoulder Training with Dumbbells," ""2025-09-01""",Shoulders,Dumbbell Front Raise,2,30,12
+Shoulder Training with Dumbbells," ""2025-09-01""",Shoulders,Dumbbell Front Raise,3,30,12
+Shoulder Training with Dumbbells," ""2025-09-01""",Shoulders,Dumbbell Reverse Fly,1,30,12
+Shoulder Training with Dumbbells," ""2025-09-01""",Shoulders,Dumbbell Reverse Fly,2,30,12
