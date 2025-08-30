@@ -1,4 +1,4 @@
-# ZFIT-API: API for my Mobile App ZFIT that Provides Automated Workout Planning with Actionable Insights
+# ZFIT-API: AI Automated Workout Plans & Insights
 
 
 ## Introduction/Summary
